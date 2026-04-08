@@ -1,0 +1,5 @@
+USERS = "users"
+SONGS = "songs"
+PLAY_HISTORY = "playHistory"
+LIKED_SONGS = "likedSongs"
+PLAYLISTS = "playlists"
